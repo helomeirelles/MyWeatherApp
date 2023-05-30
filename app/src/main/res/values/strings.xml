@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="about_message">This app was developed to apply concepts of Jetpack Compose, Room Database, Retrofit, MVVM and many others. It\'s important to emphasize that this is just a study, and it\'s not being used for personal profit. All data was provided by OpenWeatherApi.</string>
+    <string name="learn_more">Learn more about <b>OpenWeatherApi</b></string>
+    <string name="open_weather_api_url">https://openweathermap.org/</string>
+    <string name="city_added">City was added to Favorites!</string>
+    <string name="city_removed">City was removed from Favorites!</string>
+    <string name="save_label">Save</string>
+    <string name="unit_saved">Unit was changed to </string>
+</resources>
